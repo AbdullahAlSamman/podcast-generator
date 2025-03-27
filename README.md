@@ -1,1 +1,1 @@
-# podcast-generator
+# itunes-podcast-generator
